@@ -1,0 +1,17 @@
+body {
+	background: url('tekstura-perya-chernye-6617.jpg') no-repeat;
+	background-size: cover; 
+	font-family: Arial;
+	color: white;
+}
+ul {
+	margine: 0px;
+	padding: 0px;
+	lift-style:none;
+}
+ul li {
+	float: left;
+	padding-left: 10px;
+	width: 200px;
+	
+}
